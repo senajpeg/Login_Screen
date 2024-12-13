@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login_Screen</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_up">Sign up</string>
+    <string name="log_out">Log out</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email_error">Please enter a valid email</string>
+    <string name="password_error">The Password should be at least 6 characters</string>
+    <string name="name_error">The name should be at least 3 characters</string>
+    <string name="Continue">Continue</string>
+    <string name="logOut_message"> Log Out</string>
+    <string name="alert_setMessage"> Are you sure you want to log out?</string>
+    <string name="yes"> Yes</string>
+    <string name="no"> No</string>
+</resources>
